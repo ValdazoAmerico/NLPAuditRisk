@@ -6,7 +6,7 @@
 - **Versión**: 1.0.0
 - **Tipo de Modelo**: Modelo de lenguaje pre-entrenado y fine-tuneado para tareas de procesamiento de lenguaje natural.
 - **Fecha de Creación**: Junio 2023.
-- **Autor**: Américo Valdazo
+- **Autores**: Valdazo,A; Gargano,P; Bartellini,N; Bernal,M; Bunge,M; Daquarti,G 
 - **Modelo Base de Hugging Face**: 'roberta-base-biomedical-clinical-es'
 - **URL del Modelo Base de Hugging Face**: https://huggingface.co/PlanTL-GOB-ES/roberta-base-biomedical-clinical-es
 
